@@ -18,6 +18,6 @@ d2.update({"Seema": "Tofee"})
 print(d2) #updates dictionary
 print(d2.keys) #prints key elements of dictionary
 print(d2.items) #prints item elements of dictionary
-
+print(d2.items())
 
 
